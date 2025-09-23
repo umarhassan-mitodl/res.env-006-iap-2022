@@ -1,0 +1,17 @@
+leftnav:
+- identifier: b457d883-6256-4cd9-949d-0ef7d2d4e215
+  name: Syllabus and Course Materials
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 9eef4f2d-e411-41ff-9741-7793c00e5365
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 0dd7fd37-e290-4e29-9624-914a9cd37f41
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: af118e99-473b-4e18-a630-3924b18b5f15
+  name: Online Library of Lessons and Activities
+  pageRef: /external-resources/online-library-of-lessons-and-activities_af118e99-473b-4e18-a630-3924b18b5f15
+  weight: 40
