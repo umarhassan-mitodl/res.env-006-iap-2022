@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-env-006-teaching-with-sustainability-january-iap-2022/mitres_env-006iap22list.pdf
 file_size: 76829
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
